@@ -7,7 +7,7 @@ Each program is designed for beginners to understand core Python concepts.
 
 ---
 
-## 📌 Task 1: Grade Checker
+## 📌 Task 1: Grade Checker Using elif
 **Description:**  
 Takes a score as input and prints the grade based on the following criteria:
 - `90+` → **A**
@@ -26,7 +26,7 @@ Takes a score as input and prints the grade based on the following criteria:
 
 ---
 
-## 📌 Task 2: Student Grades
+## 📌 Task 2: Student Grades Using Dictionary
 **Description:**  
 Uses a **dictionary** to store student names as keys and their grades as values.  
 The user can:
@@ -43,7 +43,7 @@ The user can:
 
 ---
 
-## 📌 Task 3: Write to a File
+## 📌 Task 3: Write to a File Using file functions
 **Description:**  
 Creates a text file and writes some content into it.  
 
@@ -56,7 +56,7 @@ Creates a text file and writes some content into it.
 
 ---
 
-## 📌 Task 4: Read from a File
+## 📌 Task 4: Read from a File Using file functions
 **Description:**  
 Opens a text file in read mode and prints its content.  
 
