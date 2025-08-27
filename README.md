@@ -69,7 +69,7 @@ Opens a text file in read mode and prints its content.
 
 ---
 ## Document
-** Dscription **
+**Description:**
 Assignment screenshots are included in [Google Doc](https://docs.google.com/document/d/1f6j7IEmXNDlAfDZAFSVed5XUMxnuqPE5mzzbf7U-ME8/edit?usp=drivesdk)
 
 
