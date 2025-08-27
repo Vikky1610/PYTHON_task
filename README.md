@@ -68,8 +68,8 @@ Opens a text file in read mode and prints its content.
 
 
 ---
-## Google Doc
+## Document
 ** Dscription **
-Here's a Google Document containing tasks screenshots
+Assignment screenshots are included in [Google Doc](https://docs.google.com/document/d/1f6j7IEmXNDlAfDZAFSVed5XUMxnuqPE5mzzbf7U-ME8/edit?usp=drivesdk)
 
 
