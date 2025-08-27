@@ -68,5 +68,8 @@ Opens a text file in read mode and prints its content.
 
 
 ---
+## Google Doc
+** Dscription **
+Here's a Google Document containing tasks screenshots
 
 
